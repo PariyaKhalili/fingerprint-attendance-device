@@ -1,6 +1,6 @@
 # fingerprint-attendance-device
 
-This project involves a computer vision task in a Jupyter Notebook. This project implements a Few-Shot Learning algorithm for a Time and Attendance device on the SOCOFing dataset from Kaggle (https://www.kaggle.com/datasets/ruizgara/socofing).
+This project involves a computer vision task in a Jupyter Notebook. This project implements a Few-Shot Learning algorithm for a Fingureprint Attendance device on the SOCOFing dataset from Kaggle (https://www.kaggle.com/datasets/ruizgara/socofing).
 
 ## 📁 Project Structure:
 
