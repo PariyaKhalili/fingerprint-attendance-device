@@ -13,8 +13,8 @@ This project involves a computer vision task in a Jupyter Notebook. This project
 ![Examples](https://github.com/PariyaKhalili/fingerprint-attendance-device/blob/main/images/image%202.jpg)
 
 5. The positive and negative pairs are created.
-6. The Siamese network with a ResNet50 as a feature extractor is created.
-7. he network is trained with the trained data, and then retrained with the support set.
+6. The Siamese network with a ResNet50 as a feature extractor is defined.
+7. The network is trained with the trained data, and then retrained with the support set.
 8. Then the network is tested with the query set.
 
 ### How does the algorithm work?
