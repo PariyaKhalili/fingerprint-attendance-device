@@ -9,7 +9,7 @@ This project involves a computer vision task in a Jupyter Notebook. This project
 
 2. The user is assumed to enter 5 fingerprints for the device to identify them.
 3. The 5 different attempts are 3 rotations with a random angle, a Gaussian noise, and a cropped center
-4. These 5 functions are applied on the dataset for every fingerprint, and 300 IDs are created.
+4. These 5 functions are applied on the dataset for every fingerprint, and 350 IDs are created.
 ![Examples](https://github.com/PariyaKhalili/fingerprint-attendance-device/blob/main/images/image%202.jpg)
 
 5. The positive and negative pairs are created.
