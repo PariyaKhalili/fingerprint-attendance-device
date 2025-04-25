@@ -17,4 +17,9 @@ This project involves a computer vision task in a Jupyter Notebook. This project
 7. he network is trained with the trained data, and then retrained with the support set.
 8. Then the network is tested with the query set.
 
+### How does the algorithm work?
+In this algorithm the new user is identified with 5 fingerprints. This is done through augmention of three rotations with random angle, noisy and crop center functions for each user.
+Then, the Siamese network is trained with this dataset and retrained with the support set with the IDs from 591 to 600.
+The query set consists of a random rotation of 1 fingerprint of IDs 591 to 600, and the network identifies this user.
+
 
