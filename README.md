@@ -5,7 +5,8 @@ This project involves a computer vision task in a Jupyter Notebook. This project
 ## 📁 Project Structure:
 
 1. The SOCOFing dataset is loaded.
-   ![Examples](images/image 1.jpg)
+![Examples](images/image 1.jpg)
+
 3. The user is assumed to enter 5 fingerprints for the device to identify them.
 4. The 5 different attempts are 3 rotations with a random angle, a Gaussian noise, and a cropped center
 5. These 5 functions are applied on the dataset for every fingerprint, and 300 IDs are created.
